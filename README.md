@@ -10,7 +10,7 @@ In the initial analysis we filtered our data for the specific date range of Augu
 
 ## Secondary Analysis Reults: June and December
 1. Our temperarture summary statistics show that June typically has a higher mean temperature at 74.9 compared to December at 71.0.
-2. Where 50% of the temperatures recorded for June were above 75.0, median temperature for December was 71.0
+2. 50% of the temperatures recorded for June were above 75.0 and median temperature for December was 71.0
 3. June has a minimum temperature of 64.0 while December has a minimum temperature of 56.0
 
 ![June_Summary_Statistics](./Resources/June_Summary_Statistics.png)
